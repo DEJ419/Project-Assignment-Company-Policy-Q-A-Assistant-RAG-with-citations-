@@ -1,6 +1,0 @@
-id,question,answered,answer,citations,outcome,notes
-1,How much paternity leave do I get?,true,Employees are entitled to 4 weeks of fully paid paternity leave.,08_parental_leave_policy#3,correct,Retrieved parental leave policy accurately.
-2,Can I bring my dog to the office?,false,The policy documents do not contain information about this.,,correct_refusal,Correctly refused as topic is absent from files.
-3,I stayed in a hotel costing NGN 70,000 per night on a domestic work trip. Is that within the limit?,true,Yes. The domestic hotel limit is NGN 80,000 per night, so NGN 70,000 is within it.,04_business_travel_policy#4,correct,Found exact figures in travel policy.
-4,What is the maximum allowance for client entertainment standard dinner per person?,true,The allowance is NGN 35,000 per person.,05_expense_reimbursement_policy#3,correct,Extracted expense limit correctly.
-5,Are cryptocurrency purchases covered under reimbursement policy?,false,The policy documents do not contain information about this.,,correct_refusal,Correctly refused out-of-bounds topic.
